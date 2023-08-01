@@ -1,0 +1,27 @@
+/* .header1{
+  display: flex;
+  justify-content: space-around;
+  .d1{
+    font-size: 38px;
+  }
+} */
+.signin{
+  display: flex;
+  /* justify-content: space-around; */
+  flex-direction: column;
+}
+
+/* nav{
+  display: flex;
+  justify-content: space-around;
+  .d{
+    ul{
+      display:flex;
+      justify-content: space-around;
+      li{
+        text-decoration: none;
+      }
+    
+  }
+}
+} */
